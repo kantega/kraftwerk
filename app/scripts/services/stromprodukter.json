@@ -1,0 +1,230 @@
+[{
+  "productid": 1,
+  "productName": "webSpot",
+  "productType": "Spotpris",
+  "certifiedReneweable": "Nei",
+  "startupFee": "400,00",
+  "monthlyFee": "49,90",
+  "lastMonthPrice": [{
+    "region": "Nordnorge",
+    "value": "20,88",
+    "regionValue": "regionNorth"
+  }, {
+    "region": "Vestlandet",
+    "value": "20,15",
+    "regionValue": "regionWest"
+  }, {
+    "region": "Sørvest-Norge",
+    "value": "50,15",
+    "regionValue": "regionSouthWest"
+  }, {
+    "region": "Sørøst-Norge",
+    "value": "10,11",
+    "regionValue": "regionSouthEast"
+  }, {
+    "region": "Midt-Norge",
+    "value": "20,99",
+    "regionValue": "regionMiddle"
+  }],
+  "applicableToNewCustomers": "TRUE",
+  "paymentType": "forskudd",
+  "fees": [{
+    "feeDisplayName": "Avtalegiro",
+    "feeName": "paymentFeeAvtalegiro",
+    "feeValue": "0"
+  }, {
+    "feeDisplayName": "eFaktura",
+    "feeName": "paymentFeeEFaktura",
+    "feeValue": "0"
+  }, {
+    "feeDisplayName": "Epost",
+    "feeName": "paymentFeeEmail",
+    "feeValue": "39,00"
+  }, {
+    "feeDisplayName": "Post",
+    "feeName": "paymentFeeMail",
+    "feeValue": "69,00"
+  }],
+  "otherConditions": "All kommunikasjon går elektronisk",
+  "failureToMeetOtherConditions": "Dersom du ikke benytter deg av avtalegiro og/eller efaktura vil du bli flyttet over til vårt produkt spot.",
+  "productDescription": "Avtalen kan kun bestilles på web. Avtalen forutsetter elektronisk fakturering og AvtaleGiro, og at du administrerer kundeforholdet ditt ved hjelp av Min side.",
+  "productDescriptionShort": "Nesten gratis"
+}, {
+  "productid": 2,
+  "productName": "Fastpris",
+  "productType": "Fast pris",
+  "certifiedReneweable": "ja",
+  "agreementTime": "6",
+  "startupFee": "400,00",
+  "monthlyFee": "49,90",
+  "addonPrice": [{
+    "region": "Nordnorge",
+    "value": "3,85",
+    "regionValue": "regionNorth"
+  }, {
+    "region": "Vestlandet",
+    "value": "3,15",
+    "regionValue": "regionWest"
+  }, {
+    "region": "Sørvest-Norge",
+    "value": "3,15",
+    "regionValue": "regionSouthWest"
+  }, {
+    "region": "Sørøst-Norge",
+    "value": "3,15",
+    "regionValue": "regionSouthEast"
+  }, {
+    "region": "Midt-Norge",
+    "value": "3,15",
+    "regionValue": "regionMiddle"
+  }],
+  "lastMonthPrice": [{
+    "region": "Nordnorge",
+    "value": "20,88",
+    "regionValue": "regionNorth"
+  }, {
+    "region": "Vestlandet",
+    "value": "20,15",
+    "regionValue": "regionWest"
+  }, {
+    "region": "Sørvest-Norge",
+    "value": "50,15",
+    "regionValue": "regionSouthWest"
+  }, {
+    "region": "Sørøst-Norge",
+    "value": "10,11",
+    "regionValue": "regionSouthEast"
+  }, {
+    "region": "Midt-Norge",
+    "value": "20,99",
+    "regionValue": "regionMiddle"
+  }],
+  "applicableToNewCustomers": "TRUE",
+  "paymentType": "forskudd",
+  "fees": [{
+    "feeDisplayName": "Avtalegiro",
+    "feeName": "paymentFeeAvtalegiro",
+    "feeValue": "0"
+  }, {
+    "feeDisplayName": "eFaktura",
+    "feeName": "paymentFeeEFaktura",
+    "feeValue": "0"
+  }, {
+    "feeDisplayName": "Epost",
+    "feeName": "paymentFeeEmail",
+    "feeValue": "39,00"
+  }, {
+    "feeDisplayName": "Post",
+    "feeName": "paymentFeeMail",
+    "feeValue": "69,00"
+  }],
+  "productDescription": "Her er det en fast pris slik at du betaler det samme hver måned. Prisene kan endres med seks måneders varsel.",
+  "productDescriptionShort": "Fast og forutsigbar"
+}, {
+  "productid": 3,
+  "productName": "Vestlandskraft",
+  "productType": "Innkjøp",
+  "certifiedReneweable": "ja",
+  "startupFee": "1,00",
+  "monthlyFee": "9,90",
+  "lastMonthPrice": [{
+    "region": "Vestlandet",
+    "value": "10,15",
+    "regionValue": "regionWest"
+  }],
+  "applicableToNewCustomers": "TRUE",
+  "paymentType": "forskudd",
+  "fees": [{
+    "feeDisplayName": "Avtalegiro",
+    "feeName": "paymentFeeAvtalegiro",
+    "feeValue": "0"
+  }, {
+    "feeDisplayName": "eFaktura",
+    "feeName": "paymentFeeEFaktura",
+    "feeValue": "0"
+  }, {
+    "feeDisplayName": "Epost",
+    "feeName": "paymentFeeEmail",
+    "feeValue": "39,00"
+  }, {
+    "feeDisplayName": "Post",
+    "feeName": "paymentFeeMail",
+    "feeValue": "69,00"
+  }],
+  "otherConditions": "Boligen som kobles opp må befinne seg på vestlandet",
+  "failureToMeetOtherConditions": "Dersom du ikke befinner deg på vestlandet vil du overføres til nettleverandør i ditt område.",
+  "productDescription": "Dette er et produkt som kun er tilgjengelig for kunder på vestlandet",
+  "productDescriptionShort": "Ren regnkraft"
+}, {
+  "productid": 4,
+  "productName": "Variabel pris med Aftenposten på døren",
+  "productType": "variabel pris",
+  "certifiedReneweable": "ja",
+  "startupFee": "400,00",
+  "monthlyFee": "49,90",
+  "addonPrice": [{
+    "region": "Nordnorge",
+    "value": "3,85",
+    "regionValue": "regionNorth"
+  }, {
+    "region": "Vestlandet",
+    "value": "3,15",
+    "regionValue": "regionWest"
+  }, {
+    "region": "Sørvest-Norge",
+    "value": "3,15",
+    "regionValue": "regionSouthWest"
+  }, {
+    "region": "Sørøst-Norge",
+    "value": "3,15",
+    "regionValue": "regionSouthEast"
+  }, {
+    "region": "Midt-Norge",
+    "value": "3,15",
+    "regionValue": "regionMiddle"
+  }],
+  "lastMonthPrice": [{
+    "region": "Nordnorge",
+    "value": "20,88",
+    "regionValue": "regionNorth"
+  }, {
+    "region": "Vestlandet",
+    "value": "20,15",
+    "regionValue": "regionWest"
+  }, {
+    "region": "Sørvest-Norge",
+    "value": "50,15",
+    "regionValue": "regionSouthWest"
+  }, {
+    "region": "Sørøst-Norge",
+    "value": "10,11",
+    "regionValue": "regionSouthEast"
+  }, {
+    "region": "Midt-Norge",
+    "value": "20,99",
+    "regionValue": "regionMiddle"
+  }],
+  "applicableToNewCustomers": "TRUE",
+  "paymentType": "forskudd",
+  "fees": [{
+    "feeDisplayName": "Avtalegiro",
+    "feeName": "paymentFeeAvtalegiro",
+    "feeValue": "0"
+  }, {
+    "feeDisplayName": "eFaktura",
+    "feeName": "paymentFeeEFaktura",
+    "feeValue": "0"
+  }, {
+    "feeDisplayName": "Epost",
+    "feeName": "paymentFeeEmail",
+    "feeValue": "39,00"
+  }, {
+    "feeDisplayName": "Post",
+    "feeName": "paymentFeeMail",
+    "feeValue": "69,00"
+  }],
+  "productDescription": "Dersom du er en av de som liker å sitte om morgenen og lese om strømprisene mens du nyter morgenkaffen så er dette produktet for deg. Her får du med et abbonement på papirutgaven av Aftenposten. Abbonementet løper så lenge du er kunde. Dette betyr at du får avisen levert på døren hver dag, I tillegg så får du full tilgang til aftenpostens digitale utvalg.",
+  "productDescriptionShort": "Avis til morgenkaffen?",
+  "packagedProduct": "Aftenposten abonnement - Komplett",
+  "packageProductEstimatedValue": "Kr 359,- per måned"
+}]
