@@ -1,5 +1,5 @@
 [{
-  "productid": 1,
+  "productId": 1,
   "productName": "webSpot",
   "productType": "Spotpris",
   "certifiedReneweable": "Nei",
@@ -8,41 +8,41 @@
   "lastMonthPrice": [{
     "region": "Nordnorge",
     "value": "20,88",
-    "regionValue": "regionNorth"
+    "regionValue": "kwPriceRegionNorth"
   }, {
     "region": "Vestlandet",
     "value": "20,15",
-    "regionValue": "regionWest"
+    "regionValue": "kwPriceRegionWest"
   }, {
     "region": "Sørvest-Norge",
     "value": "50,15",
-    "regionValue": "regionSouthWest"
+    "regionValue": "kwPriceRegionSouthWest"
   }, {
     "region": "Sørøst-Norge",
     "value": "10,11",
-    "regionValue": "regionSouthEast"
+    "regionValue": "kwPriceRegionSouthEast"
   }, {
     "region": "Midt-Norge",
     "value": "20,99",
-    "regionValue": "regionMiddle"
+    "regionValue": "kwPriceRegionMiddle"
   }],
   "applicableToNewCustomers": "TRUE",
   "paymentType": "forskudd",
   "fees": [{
     "feeDisplayName": "Avtalegiro",
-    "feeName": "paymentFeeAvtalegiro",
+    "feeName": "feeAvtalegiro",
     "feeValue": "0"
   }, {
     "feeDisplayName": "eFaktura",
-    "feeName": "paymentFeeEFaktura",
+    "feeName": "feeEFaktura",
     "feeValue": "0"
   }, {
     "feeDisplayName": "Epost",
-    "feeName": "paymentFeeEmail",
+    "feeName": "feeEmail",
     "feeValue": "39,00"
   }, {
     "feeDisplayName": "Post",
-    "feeName": "paymentFeeMail",
+    "feeName": "feeMail",
     "feeValue": "69,00"
   }],
   "otherConditions": "All kommunikasjon går elektronisk",
@@ -60,62 +60,62 @@
   "addonPrice": [{
     "region": "Nordnorge",
     "value": "3,85",
-    "regionValue": "regionNorth"
+    "regionValue": "kwPriceRegionNorth"
   }, {
     "region": "Vestlandet",
     "value": "3,15",
-    "regionValue": "regionWest"
+    "regionValue": "kwPriceRegionWest"
   }, {
     "region": "Sørvest-Norge",
     "value": "3,15",
-    "regionValue": "regionSouthWest"
+    "regionValue": "kwPriceRegionSouthWest"
   }, {
     "region": "Sørøst-Norge",
     "value": "3,15",
-    "regionValue": "regionSouthEast"
+    "regionValue": "kwPriceRegionSouthEast"
   }, {
     "region": "Midt-Norge",
     "value": "3,15",
-    "regionValue": "regionMiddle"
+    "regionValue": "kwPriceRegionMiddle"
   }],
   "lastMonthPrice": [{
     "region": "Nordnorge",
     "value": "20,88",
-    "regionValue": "regionNorth"
+    "regionValue": "kwPriceRegionNorth"
   }, {
     "region": "Vestlandet",
     "value": "20,15",
-    "regionValue": "regionWest"
+    "regionValue": "kwPriceRegionWest"
   }, {
     "region": "Sørvest-Norge",
     "value": "50,15",
-    "regionValue": "regionSouthWest"
+    "regionValue": "kwPriceRegionSouthWest"
   }, {
     "region": "Sørøst-Norge",
     "value": "10,11",
-    "regionValue": "regionSouthEast"
+    "regionValue": "kwPriceRegionoSuthEast"
   }, {
     "region": "Midt-Norge",
     "value": "20,99",
-    "regionValue": "regionMiddle"
+    "regionValue": "kwPriceRegionMiddle"
   }],
   "applicableToNewCustomers": "TRUE",
   "paymentType": "forskudd",
   "fees": [{
     "feeDisplayName": "Avtalegiro",
-    "feeName": "paymentFeeAvtalegiro",
+    "feeName": "feeAvtalegiro",
     "feeValue": "0"
   }, {
     "feeDisplayName": "eFaktura",
-    "feeName": "paymentFeeEFaktura",
+    "feeName": "feeEFaktura",
     "feeValue": "0"
   }, {
     "feeDisplayName": "Epost",
-    "feeName": "paymentFeeEmail",
+    "feeName": "feeEmail",
     "feeValue": "39,00"
   }, {
     "feeDisplayName": "Post",
-    "feeName": "paymentFeeMail",
+    "feeName": "feeMail",
     "feeValue": "69,00"
   }],
   "productDescription": "Her er det en fast pris slik at du betaler det samme hver måned. Prisene kan endres med seks måneders varsel.",
@@ -130,25 +130,25 @@
   "lastMonthPrice": [{
     "region": "Vestlandet",
     "value": "10,15",
-    "regionValue": "regionWest"
+    "regionValue": "kwPriceRegionWest"
   }],
   "applicableToNewCustomers": "TRUE",
   "paymentType": "forskudd",
   "fees": [{
     "feeDisplayName": "Avtalegiro",
-    "feeName": "paymentFeeAvtalegiro",
+    "feeName": "feeAvtalegiro",
     "feeValue": "0"
   }, {
     "feeDisplayName": "eFaktura",
-    "feeName": "paymentFeeEFaktura",
+    "feeName": "feeEFaktura",
     "feeValue": "0"
   }, {
     "feeDisplayName": "Epost",
-    "feeName": "paymentFeeEmail",
+    "feeName": "feeEmail",
     "feeValue": "39,00"
   }, {
     "feeDisplayName": "Post",
-    "feeName": "paymentFeeMail",
+    "feeName": "feeMail",
     "feeValue": "69,00"
   }],
   "otherConditions": "Boligen som kobles opp må befinne seg på vestlandet",
@@ -165,62 +165,62 @@
   "addonPrice": [{
     "region": "Nordnorge",
     "value": "3,85",
-    "regionValue": "regionNorth"
+    "regionValue": "kwPriceRegionNorth"
   }, {
     "region": "Vestlandet",
     "value": "3,15",
-    "regionValue": "regionWest"
+    "regionValue": "kwPriceRegionWest"
   }, {
     "region": "Sørvest-Norge",
     "value": "3,15",
-    "regionValue": "regionSouthWest"
+    "regionValue": "kwPriceRegionSouthWest"
   }, {
     "region": "Sørøst-Norge",
     "value": "3,15",
-    "regionValue": "regionSouthEast"
+    "regionValue": "kwPriceRegionSouthEast"
   }, {
     "region": "Midt-Norge",
     "value": "3,15",
-    "regionValue": "regionMiddle"
+    "regionValue": "kwPriceRegionMiddle"
   }],
   "lastMonthPrice": [{
     "region": "Nordnorge",
     "value": "20,88",
-    "regionValue": "regionNorth"
+    "regionValue": "kwPriceRegionNorth"
   }, {
     "region": "Vestlandet",
     "value": "20,15",
-    "regionValue": "regionWest"
+    "regionValue": "kwPriceRegionWest"
   }, {
     "region": "Sørvest-Norge",
     "value": "50,15",
-    "regionValue": "regionSouthWest"
+    "regionValue": "kwPriceRegionoSuthWest"
   }, {
     "region": "Sørøst-Norge",
     "value": "10,11",
-    "regionValue": "regionSouthEast"
+    "regionValue": "kwPriceRegionouSthEast"
   }, {
     "region": "Midt-Norge",
     "value": "20,99",
-    "regionValue": "regionMiddle"
+    "regionValue": "kwPriceRegionMiddle"
   }],
   "applicableToNewCustomers": "TRUE",
   "paymentType": "forskudd",
   "fees": [{
     "feeDisplayName": "Avtalegiro",
-    "feeName": "paymentFeeAvtalegiro",
+    "feeName": "feeAvtalegiro",
     "feeValue": "0"
   }, {
     "feeDisplayName": "eFaktura",
-    "feeName": "paymentFeeEFaktura",
+    "feeName": "feeEFaktura",
     "feeValue": "0"
   }, {
     "feeDisplayName": "Epost",
-    "feeName": "paymentFeeEmail",
+    "feeName": "feeEmail",
     "feeValue": "39,00"
   }, {
     "feeDisplayName": "Post",
-    "feeName": "paymentFeeMail",
+    "feeName": "feeMail",
     "feeValue": "69,00"
   }],
   "productDescription": "Dersom du er en av de som liker å sitte om morgenen og lese om strømprisene mens du nyter morgenkaffen så er dette produktet for deg. Her får du med et abbonement på papirutgaven av Aftenposten. Abbonementet løper så lenge du er kunde. Dette betyr at du får avisen levert på døren hver dag, I tillegg så får du full tilgang til aftenpostens digitale utvalg.",
