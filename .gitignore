@@ -31,3 +31,6 @@ node_modules
 
 .class
 *.log
+
+.sass-cache/*
+.tmp/*
