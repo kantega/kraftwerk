@@ -8,23 +8,23 @@
   "lastMonthPrice": [{
     "region": "Nordnorge",
     "value": "20,88",
-    "regionValue": "kwPriceRegionNorth"
+    "regionValue": "kwPriceRegionNO4"
   }, {
     "region": "Vestlandet",
     "value": "20,15",
-    "regionValue": "kwPriceRegionWest"
+    "regionValue": "kwPriceRegionNO5"
   }, {
     "region": "Sørvest-Norge",
     "value": "50,15",
-    "regionValue": "kwPriceRegionSouthWest"
+    "regionValue": "kwPriceRegionNO2"
   }, {
     "region": "Sørøst-Norge",
     "value": "10,11",
-    "regionValue": "kwPriceRegionSouthEast"
+    "regionValue": "kwPriceRegionNO1"
   }, {
     "region": "Midt-Norge",
     "value": "20,99",
-    "regionValue": "kwPriceRegionMiddle"
+    "regionValue": "kwPriceRegionNO3"
   }],
   "applicableToNewCustomers": "TRUE",
   "paymentType": "forskudd",
@@ -60,44 +60,44 @@
   "addonPrice": [{
     "region": "Nordnorge",
     "value": "3,85",
-    "regionValue": "kwPriceRegionNorth"
+    "regionValue": "addonPriceKwRegionNO4"
   }, {
     "region": "Vestlandet",
     "value": "3,15",
-    "regionValue": "kwPriceRegionWest"
+    "regionValue": "addonPriceKwRegionNO5"
   }, {
     "region": "Sørvest-Norge",
     "value": "3,15",
-    "regionValue": "kwPriceRegionSouthWest"
+    "regionValue": "addonPriceKwRegionNO2"
   }, {
     "region": "Sørøst-Norge",
     "value": "3,15",
-    "regionValue": "kwPriceRegionSouthEast"
+    "regionValue": "addonPriceKwRegionNO1"
   }, {
     "region": "Midt-Norge",
     "value": "3,15",
-    "regionValue": "kwPriceRegionMiddle"
+    "regionValue": "addonPriceKwRegionNO3"
   }],
   "lastMonthPrice": [{
     "region": "Nordnorge",
     "value": "20,88",
-    "regionValue": "kwPriceRegionNorth"
+    "regionValue": "kwPriceRegionNO4"
   }, {
     "region": "Vestlandet",
     "value": "20,15",
-    "regionValue": "kwPriceRegionWest"
+    "regionValue": "kwPriceRegionNO5"
   }, {
     "region": "Sørvest-Norge",
     "value": "50,15",
-    "regionValue": "kwPriceRegionSouthWest"
+    "regionValue": "kwPriceRegionNO2"
   }, {
     "region": "Sørøst-Norge",
     "value": "10,11",
-    "regionValue": "kwPriceRegionoSuthEast"
+    "regionValue": "kwPriceRegionNO1"
   }, {
     "region": "Midt-Norge",
     "value": "20,99",
-    "regionValue": "kwPriceRegionMiddle"
+    "regionValue": "kwPriceRegionNO3"
   }],
   "applicableToNewCustomers": "TRUE",
   "paymentType": "forskudd",
@@ -130,7 +130,7 @@
   "lastMonthPrice": [{
     "region": "Vestlandet",
     "value": "10,15",
-    "regionValue": "kwPriceRegionWest"
+    "regionValue": "kwPriceRegionNO5"
   }],
   "applicableToNewCustomers": "TRUE",
   "paymentType": "forskudd",
@@ -165,44 +165,44 @@
   "addonPrice": [{
     "region": "Nordnorge",
     "value": "3,85",
-    "regionValue": "kwPriceRegionNorth"
+    "regionValue": "addonPriceKwRegionNO4"
   }, {
     "region": "Vestlandet",
     "value": "3,15",
-    "regionValue": "kwPriceRegionWest"
+    "regionValue": "addonPriceKwRegionNO5"
   }, {
     "region": "Sørvest-Norge",
     "value": "3,15",
-    "regionValue": "kwPriceRegionSouthWest"
+    "regionValue": "addonPriceKwRegionNO2"
   }, {
     "region": "Sørøst-Norge",
     "value": "3,15",
-    "regionValue": "kwPriceRegionSouthEast"
+    "regionValue": "addonPriceKwRegionNO1"
   }, {
     "region": "Midt-Norge",
     "value": "3,15",
-    "regionValue": "kwPriceRegionMiddle"
+    "regionValue": "addonPriceKwRegionNO3"
   }],
   "lastMonthPrice": [{
     "region": "Nordnorge",
     "value": "20,88",
-    "regionValue": "kwPriceRegionNorth"
+    "regionValue": "kwPriceRegionNO4"
   }, {
     "region": "Vestlandet",
     "value": "20,15",
-    "regionValue": "kwPriceRegionWest"
+    "regionValue": "kwPriceRegionNO5"
   }, {
     "region": "Sørvest-Norge",
     "value": "50,15",
-    "regionValue": "kwPriceRegionoSuthWest"
+    "regionValue": "kwPriceRegionNO2"
   }, {
     "region": "Sørøst-Norge",
     "value": "10,11",
-    "regionValue": "kwPriceRegionouSthEast"
+    "regionValue": "kwPriceRegionNO1"
   }, {
     "region": "Midt-Norge",
     "value": "20,99",
-    "regionValue": "kwPriceRegionMiddle"
+    "regionValue": "kwPriceRegionNO3"
   }],
   "applicableToNewCustomers": "TRUE",
   "paymentType": "forskudd",
