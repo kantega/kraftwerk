@@ -30,8 +30,8 @@ module.exports = function(grunt) {
       all: {
         options: {
           snapshotPath: 'snapshots/',
-          sitePath: 'http://www.hafslund.no',
-          urls: ['/strom/privat/alle_str_mavtaler/12']
+          sitePath: 'http://localhost:9000',
+          urls: ['#/products']
         }
       }
     },
