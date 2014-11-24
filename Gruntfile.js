@@ -30,8 +30,8 @@ module.exports = function(grunt) {
       all: {
         options: {
           snapshotPath: 'snapshots/',
-          sitePath: 'http://localhost:9000',
-          urls: ['#/products']
+          sitePath: 'http://www.hafslund.no',
+          urls: ['/strom/privat/alle_str_mavtaler/12']
         }
       }
     },
@@ -450,8 +450,7 @@ module.exports = function(grunt) {
   grunt.registerTask('default', [
     'newer:jshint',
     'test',
-    'build',
-    'htmlSnapshot'
+    'build'
   ]);
 
   grunt.registerTask('snapshot', [

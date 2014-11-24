@@ -34,6 +34,7 @@ snapshots
 
 .class
 *.log
+.DS_Store
 
 .sass-cache/*
 .tmp/*
