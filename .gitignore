@@ -28,7 +28,7 @@ node_modules
 
 #HTML snapshots
 snapshots
-
+dist 
 # Users Environment Variables
 .lock-wscript
 
