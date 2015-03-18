@@ -30,7 +30,7 @@ module.exports = function(grunt) {
       all: {
         options: {
           snapshotPath: 'snapshots/',
-          sitePath: 'http://localhost:9000',
+          sitePath: 'https://prototype.kantega.no/kraftwerk/',
           urls: ['#/products']
         }
       }
